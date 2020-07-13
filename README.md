@@ -64,6 +64,7 @@ This project is to create my portfolio website to showcase my skills and future 
 | Working with API | H | 3hrs| -hr | -hr |
 | Responsive | H | 3hr | -hr | -hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
+| Deployment | H | 1hr | -hr | -hr|
 | Total | H | 15.5hrs| -hrs | -hrs |
 
 #### PostMVP
