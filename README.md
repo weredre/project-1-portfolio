@@ -29,20 +29,14 @@ This project is to create my portfolio website to showcase my skills and future 
 ## Time/Priority Matrix
  (https://res.cloudinary.com/dgflxfgue/image/upload/v1594667084/Matrix_Board_npfedq.png)
 
- | Deliverable | Status | Time Spent |
- | --- | :---: |  :---: | :---: | :---: |
- | Mon, July 13 | Project Proposal	 | Incomplete
- |
- | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Incomplete
- |
- | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Incomplete
- |
- | Wed, July 15 | MVP | Incomplete
-|
- | Thurs, July 16| PostMVP & Debugging | Incomplete
- |
- |Fri, July 17 | Present | Incomplete
-|
+ | Deliverable | Status | Time Spent|
+ | --- | :---: |  :---: |
+ | Mon, July 13 | Project Proposal| Incomplete|
+ | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Incomplete|
+ | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Incomplete|
+ | Wed, July 15 | MVP | Incomplete|
+ | Thurs, July 16| PostMVP & Debugging | Incomplete|
+ |Fri, July 17 | Present | Incomplete|
 
 #### MVP
 
