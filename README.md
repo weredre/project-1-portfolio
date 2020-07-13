@@ -31,8 +31,8 @@ This project is to create my portfolio website to showcase my skills and future 
 
  | Deliverable | Status | Time Spent|
  | --- | :---: |  :---: |
- | Mon, July 13 | Project Proposal| Incomplete|
- | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Incomplete|
+ | Mon, July 13 | Project Proposal| Complete|
+ | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Complete|
  | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Incomplete|
  | Wed, July 15 | MVP | Incomplete|
  | Thurs, July 16| PostMVP & Debugging | Incomplete|
