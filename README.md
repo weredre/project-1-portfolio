@@ -6,7 +6,7 @@
 |---|---| ---|
 |Day 1| Project Description | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -33,7 +33,7 @@ This project is to create my portfolio website to showcase my skills and future 
  | --- | :---: |  :---: |
  | Mon, July 13 | Project Proposal| Complete|
  | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Complete|
- | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Incomplete|
+ | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Complete|
  | Wed, July 15 | MVP | Incomplete|
  | Thurs, July 16| PostMVP & Debugging | Incomplete|
  |Fri, July 17 | Present | Incomplete|
@@ -57,15 +57,15 @@ This project is to create my portfolio website to showcase my skills and future 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1hr | -hr | -hr|
-| Project Previews | H | -hr | -hr | -hr|
+| Hamburger | H | 1hr | -hr | 1hr|
+| Project Previews | H | -hr | -hr | 1hr|
 | Regular Nav | H | H | -hr | -hr|
-| Adding Form | H | 1.5hr| -hr | -hr |
-| Other sections and flex| M | 4hr | -hr | -hr|
-| Working with API | H | 3hrs| -hr | -hr |
-| Responsive | H | 3hr | -hr | -hr|
+| Adding Form | H | 1.5hr| -hr | 1hr |
+| Other sections and flex| M | 4hr | -hr | 5hr|
+| Working with API | H | 3hrs| -hr | 2hr |
+| Responsive | H | 3hr | -hr | 3hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Deployment | H | 1hr | -hr | -hr|
+| Deployment | H | 1hr | -hr | 1hr|
 | Total | H | 15.5hrs| -hrs | -hrs |
 
 #### PostMVP
