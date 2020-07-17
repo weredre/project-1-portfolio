@@ -101,4 +101,7 @@ ul{
     height: 520px;
 
   }
+  .projectDiv{
+    display: inline-block;
+  }
 }
