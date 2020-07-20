@@ -7,7 +7,7 @@
 |Day 1| Project Description | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
-|Day 4| MVP & Bug Fixes | Incomplete
+|Day 4| MVP & Bug Fixes | Complete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
@@ -34,8 +34,8 @@ This project is to create my portfolio website to showcase my skills and future 
  | Mon, July 13 | Project Proposal| Complete|
  | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Complete|
  | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Complete|
- | Wed, July 15 | MVP | Incomplete|
- | Thurs, July 16| PostMVP & Debugging | Incomplete|
+ | Wed, July 15 | MVP | Complete|
+ | Thurs, July 16| PostMVP & Debugging | Inprogress|
  |Fri, July 17 | Present | Incomplete|
 
 #### MVP

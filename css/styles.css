@@ -107,4 +107,17 @@ ul{
   .projectDiv{
     display: inline-block;
   }
+  /* .project{
+    display: inline-block;
+    align-items: flex-start; */
+    #content{
+      justify-content: space-around;
+      align-items: baseline;
+  }
+  #name{
+    align-items: center;
+  }
+  /* #projects{
+    display:inline-block;
+  } */
 }
