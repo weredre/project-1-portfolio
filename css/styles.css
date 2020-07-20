@@ -19,7 +19,7 @@ p{
   font-family: 'Nanum Gothic', sans-serif;
 }
 body{
-  background-image: url(../img/background_1.jpg);
+  background-image: url(../img/background_2.jpg);
   background-size: cover;
   /* background-color: LightBlue; */
 }
@@ -80,6 +80,9 @@ body{
   background-color: #4CAF50;
   color: white;
 }
+navbar{
+ position: fixed;
+}
 #icons{
   display: inline-block;
 }
@@ -120,4 +123,8 @@ ul{
   /* #projects{
     display:inline-block;
   } */
+  .text{
+    font-weight: bold;
+
+  }
 }
