@@ -79,3 +79,7 @@ This project is to create my portfolio website to showcase my skills and future 
 | Bootstrap | H | 4hr | 5hr | 6hr|
 | Carousel| L | 3r | -hr | -hr|
 | Total | H | 19hrs| -hrs | -hrs |
+
+## Resources
+https://www.w3schools.com/
+https://getbootstrap.com/

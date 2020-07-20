@@ -19,9 +19,9 @@ p{
   font-family: 'Nanum Gothic', sans-serif;
 }
 body{
-  /*background-image: url(../img/background.jpg);*/
+  background-image: url(../img/background_1.jpg);
   background-size: cover;
-  background-color: LightBlue;
+  /* background-color: LightBlue; */
 }
 #content {
     top: 50%; /* IMPORTANT */
