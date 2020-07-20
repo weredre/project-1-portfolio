@@ -1,5 +1,6 @@
 # Project Overview
-
+## Project LINK
+https://keen-albattani-af4a78.netlify.app/
 ## Project Schedule
 
 |  Day | Deliverable | Status
@@ -8,7 +9,7 @@
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
 |Day 4| MVP & Bug Fixes | Complete
-|Day 5| Final Touches | Incomplete
+|Day 5| Final Touches | Complete
 |Day 6| Present | Incomplete
 
 
@@ -35,7 +36,7 @@ This project is to create my portfolio website to showcase my skills and future 
  | Mon, July 13 | Wireframes / Priority Matrix / Timeline	 | Complete|
  | Tues, July 14| Core Application Structure (HTML, CSS, etc.)	 | Complete|
  | Wed, July 15 | MVP | Complete|
- | Thurs, July 16| PostMVP & Debugging | Inprogress|
+ | Thurs, July 16| PostMVP & Debugging | Complete|
  |Fri, July 17 | Present | Incomplete|
 
 #### MVP
@@ -57,16 +58,16 @@ This project is to create my portfolio website to showcase my skills and future 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1hr | -hr | 1hr|
-| Project Previews | H | -hr | -hr | 1hr|
-| Regular Nav | H | H | -hr | -hr|
+| Hamburger | H | 1hr | 2hr | 3hr|
+| Project Previews | H | -hr | hr | 1hr|
+| Regular Nav | H | H | -hr | 2hr|
 | Adding Form | H | 1.5hr| -hr | 1hr |
 | Other sections and flex| M | 4hr | -hr | 5hr|
 | Working with API | H | 3hrs| -hr | 2hr |
 | Responsive | H | 3hr | -hr | 3hr|
-| Social Media Icons | L | 1hr | -hr | -hr|
-| Deployment | H | 1hr | -hr | 1hr|
-| Total | H | 15.5hrs| -hrs | -hrs |
+| Social Media Icons | L | 1hr | 1hr | 2hr|
+| Deployment | H | 1hr | 1hr | 1hr|
+| Total | H | 15.5hrs| -hrs | 20hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
@@ -75,6 +76,6 @@ This project is to create my portfolio website to showcase my skills and future 
 | Banner letters wiggle | L | 1hr | -hr | -hr|
 | Interactive Banner | M | 4hr | -hr | -hr|
 | Materialize | H | 4hr | -hr | -hr|
-| Bootstrap | H | 4hr | -hr | -hr|
+| Bootstrap | H | 4hr | 5hr | 6hr|
 | Carousel| L | 3r | -hr | -hr|
 | Total | H | 19hrs| -hrs | -hrs |
