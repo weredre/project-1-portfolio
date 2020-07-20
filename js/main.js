@@ -1,12 +1,12 @@
 /* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
-function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
+// function myFunction() {
+//   var x = document.getElementById("myLinks");
+//   if (x.style.display === "block") {
+//     x.style.display = "none";
+//   } else {
+//     x.style.display = "block";
+//   }
+// }
 let url = `https://spreadsheets.google.com/feeds/list/1TuLZxeZam3eE970199Qj9Rrv94OnYqXdvjx4PgKJa08/od6/public/values?alt=json`
 
 fetch(url)  // starts the fetch process
