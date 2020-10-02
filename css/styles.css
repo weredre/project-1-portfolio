@@ -87,6 +87,9 @@ navbar{
   display: inline-block;
 }
 @media only screen and (min-width: 768px) {
+body{
+  text-align: center;
+}
 ul{
   text-align: center;
 }
@@ -113,9 +116,9 @@ ul{
   /* .project{
     display: inline-block;
     align-items: flex-start; */
-    #content{
+    /* #content{
       justify-content: space-around;
-      align-items: baseline;
+      align-items: baseline; */
   }
   #name{
     align-items: center;
